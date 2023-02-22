@@ -1,6 +1,6 @@
 """One Shot Wordle!"""
 
-_author_ = "730475086"
+__author__ = "730475086"
 
 secret: str = "python"
 WHITE_BOX: str = "\U00002B1C"
